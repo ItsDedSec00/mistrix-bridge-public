@@ -1,11 +1,11 @@
 {
   "channel":     "nightly",
-  "versionName": "0.0.0-nightly.20260814.2a00cce",
-  "versionCode": 29778837,
+  "versionName": "0.0.0-nightly.20260815.2a00cce",
+  "versionCode": 29779436,
   "fileName":    "mistrix-nightly.apk",
   "url":         "https://github.com/ItsDedSec00/mistrix-bridge-public/releases/download/nightly/mistrix-nightly.apk",
-  "sha256":      "1218c2cbcbcc029fbcdfc9432aca3ebef20a72535d4c51b0803b715f6dc857b6",
+  "sha256":      "bd1ac65929692317016b1e8d9f120a746ce3395bbf924d0e37b7fb95d6d66111",
   "sizeBytes":   4054081,
   "commit":      "2a00cce061333bb0379bff8b474f68060f26f83d",
-  "releasedAt":  "2026-08-14T17:58:37Z"
+  "releasedAt":  "2026-08-15T03:58:11Z"
 }
